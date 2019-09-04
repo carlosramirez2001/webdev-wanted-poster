@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+    overflow: hidden;
+    border: 4px dotted red;
+    width: 400px;
+    background: pink;
+}
+
+img{
+    width: 300px;
+    border: 1px solid black;
+}
+h1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50pt;
+    margin: 10px;
+    text-decoration: underline;
+ }
+p{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+h3{font-family: 'Courier New', Courier, monospace;
+   font-weight: bold;
+   font-size: 20pt;
+   color: black;}
